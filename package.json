@@ -104,7 +104,7 @@
     "ng-packagr": "^2.4.1",
     "prettier": "1.10.2",
     "protractor": "~5.3.0",
-    "release-it": "^7.6.2",
+    "release-it": "^15.6.0",
     "standard-version": "^4.3.0",
     "ts-node": "~5.0.1",
     "tslint": "~5.9.1",
